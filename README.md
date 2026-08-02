@@ -1,5 +1,5 @@
 # poisonsticklord
-## more than datapacks 
+### more than datapacks 
 
 Hello, you can refer to me as **raphuh_**, I make datapacks and resource packs and I began creating them 1 year ago.
 
@@ -8,7 +8,7 @@ Info about me:
 - I'm a guy
 - I enjoy making various things
 - I have a twitch! I make coding streams! Come and stop by!
-(https://lesserempyreanstrongbox.twitch.tv)
+(https://m.twitch.tv/lesserempyreanstrongbox/home)
 
 <img width="120" height="120" alt="14536" src="https://github.com/user-attachments/assets/88f67123-ea3a-4055-8458-056cf440baca" />
 
@@ -48,7 +48,7 @@ Info about me:
 **https://www.patreon.com/c/poisonsticklordsCollective**
 
 ### My Twitch:
-https://lesserempyreanstrongbox.twitch.tv 
+https://m.twitch.tv/lesserempyreanstrongbox/home
 
 
 ## Thanks for stopping by!
