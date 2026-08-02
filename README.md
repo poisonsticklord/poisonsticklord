@@ -9,7 +9,7 @@ Info about me:
 - I enjoy making various things
 - I have a twitch! I make coding streams! Come and stop by! (https://lesserempyreanstrongbox.twitch.tv)
 - I own a patreon where I occasionally release private projects made by me! If you want to support me, you can buy a 1 month subscription for £2!
-- 
+
 ## Current Projects:
 
 # Enchancement:
@@ -33,4 +33,15 @@ Info about me:
 - Will also be released on my patreon!
 
 # Other Social Links!
-- patreon.com/
+### My Patreon - Support me through buying my datapacks!
+**https://www.patreon.com/c/poisonsticklordsCollective**
+
+### My Twitch:
+https://lesserempyreanstrongbox.twitch.tv 
+
+
+## Thanks for stopping by!
+
+
+
+-# The world is a great place
