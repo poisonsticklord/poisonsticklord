@@ -15,7 +15,9 @@ Info about me:
 # Enchancement:
 - Medium-scale datapack focused around world events, killing bosses and gaining magical power through enchantments.
 - Unreleased as of now, but will be released soon!
-- Will show on my patreon, where you can purchase a subscription for £2 (get access to every dp i own on there!)
+- Will show on my patreon, where you can purchase a subscription for £2 (get access to every dp i own on there!)<img width="400" height="300" alt="14897" src="https://github.com/user-attachments/assets/67a2d7ef-1613-4ca5-9f3f-932c5fa72882" />
+<img width="400" height="300" alt="14888" src="https://github.com/user-attachments/assets/307d6751-151f-4eb7-857f-5e910cfa0990" />
+
 
 # Lustrous Items:
 - Large-scale datapack, focused around simply adding whatever I feel like, dimensions, biomes, weird events, niche easter eggs, anything!!
