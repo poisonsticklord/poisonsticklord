@@ -7,7 +7,12 @@ I quite enjoy custom mobs and I run my own server, named **"Lustrous Maps"**.
 Info about me:
 - I'm a guy
 - I enjoy making various things
-- I have a twitch! I make coding streams! Come and stop by! (https://lesserempyreanstrongbox.twitch.tv)
+- I have a twitch! I make coding streams! Come and stop by!
+(https://lesserempyreanstrongbox.twitch.tv)
+
+<img width="120" height="120" alt="14536" src="https://github.com/user-attachments/assets/88f67123-ea3a-4055-8458-056cf440baca" />
+
+
 - I own a patreon where I occasionally release private projects made by me! If you want to support me, you can buy a 1 month subscription for £2!
 
 ## Current Projects:
@@ -23,6 +28,10 @@ Info about me:
 - Large-scale datapack, focused around simply adding whatever I feel like, dimensions, biomes, weird events, niche easter eggs, anything!!
 - Unreleased, will show on my server soon!
 - Will not be coming to patreon, private project!
+
+  <img width="74" height="76" alt="14380" src="https://github.com/user-attachments/assets/d79ba937-f3e0-4cac-9c25-926d459f06fb" />
+<img width="78" height="77" alt="14379" src="https://github.com/user-attachments/assets/12ed6159-0df6-4227-99f3-7667674aa0d6" />
+
 
 # Unchecked Infestation:
 - Medium-large scale datapack, focused around adding a new **Silverfish-themed infection to the game, and allowing it to take over your world!**
